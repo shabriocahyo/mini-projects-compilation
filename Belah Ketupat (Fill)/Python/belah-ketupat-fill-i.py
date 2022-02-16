@@ -1,4 +1,4 @@
-x = int(input('Masukan Tinggi Segitiga : '))
+x = int(input('Masukan Nilai : '))
 
 for i in range(x):
     print(' ' * (x - i) + '*' * i + '*' * (i - 1))
