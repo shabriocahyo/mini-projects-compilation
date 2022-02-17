@@ -1,5 +1,5 @@
 using System;
-class HelloWorld {
+class strokeSegitiga {
   static void Main() {
     Console.Write("Masukan Tinggi Segitiga : ");
     int x = int.Parse(Console.ReadLine());;
